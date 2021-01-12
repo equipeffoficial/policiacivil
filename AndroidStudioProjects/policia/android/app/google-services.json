@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362036057855",
+    "project_id": "policia-b0d80",
+    "storage_bucket": "policia-b0d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362036057855:android:1a0f625002ba82155b5eca",
+        "android_client_info": {
+          "package_name": "com.osiris.policia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362036057855-o1om7v2dhpfudf735tla4tlfd1vrjjct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_sbM_Hai2wk-kUA6XFoV_-F_6wNYjb0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362036057855-o1om7v2dhpfudf735tla4tlfd1vrjjct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
